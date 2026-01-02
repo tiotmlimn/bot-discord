@@ -1,1 +1,1 @@
-# bot-discord
+# bot rpg-discord
