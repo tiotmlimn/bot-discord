@@ -1,0 +1,44 @@
+{
+  "123456789012345678": {
+    "level": 3,
+    "exp": 20,
+    "hp": 65,
+    "maxHp": 140,
+    "potions": 2,
+    "coins": 120,
+    "weapon": 5,
+    "armor": 3,
+    "skills": {
+      "fireball": {
+        "cd": 0
+      },
+      "healSpell": {
+        "cd": 1
+      },
+      "shield": {
+        "cd": 0,
+        "active": false
+      }
+    }
+  },
+  "850081187288186892": {
+    "level": 1,
+    "exp": 0,
+    "hp": 80,
+    "maxHp": 100,
+    "coins": 50,
+    "potions": 3,
+    "weapon": 0,
+    "armor": 0
+  },
+  "821050374700924961": {
+    "level": 1,
+    "exp": 0,
+    "hp": 79,
+    "maxHp": 100,
+    "coins": 50,
+    "potions": 3,
+    "weapon": 0,
+    "armor": 0
+  }
+}
